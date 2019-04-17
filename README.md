@@ -30,3 +30,4 @@
     - 변수와 자료형
       - 형변환
     - 이스케이프 문자
+  - [추상 클래스와 인터페이스](https://github.com/by09115/JAVA-STUDY/blob/master/%EC%9E%90%EB%B0%94%20%EC%9D%B5%EC%88%99%ED%95%B4%EC%A7%80%EA%B8%B0/%EC%B6%94%EC%83%81%20%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4)
